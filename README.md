@@ -16,3 +16,6 @@ Google Cloud Storage (GCS): For data storage and retrieval.
 Apache Hive: For external and partitioned table management.
 Apache Airflow: For pipeline orchestration and scheduling.
 This pipeline ensures seamless data flow, efficient partitioning, and query optimization, making it suitable for high-volume data processing scenarios.
+
+
+![PIPELINE FLOW](https://github.com/SandipJadhav7843/GCP-TO-HIVE-TABLE-LOAD-PIPELINE-DAILY/blob/main/Pipeline_Flow.png)
