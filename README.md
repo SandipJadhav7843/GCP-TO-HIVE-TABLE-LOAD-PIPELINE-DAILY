@@ -24,3 +24,7 @@ This pipeline ensures seamless data flow, efficient partitioning, and query opti
 
 ## PIPELINE EXECUTION VIDEO -
 ![PIPELINE EXECUTION VIDEO](https://github.com/SandipJadhav7843/GCP-TO-HIVE-TABLE-LOAD-PIPELINE-DAILY/blob/main/Pipeline_Execution_Video.rar)
+
+## After loading Partition -
+
+![Partition](https://github.com/SandipJadhav7843/GCP-TO-HIVE-TABLE-LOAD-PIPELINE-DAILY/blob/main/hive_warehouse_partition.png)
