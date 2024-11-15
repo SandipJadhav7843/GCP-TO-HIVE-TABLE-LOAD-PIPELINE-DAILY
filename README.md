@@ -28,3 +28,10 @@ This pipeline ensures seamless data flow, efficient partitioning, and query opti
 ## After loading Partition -
 
 ![Partition](https://github.com/SandipJadhav7843/GCP-TO-HIVE-TABLE-LOAD-PIPELINE-DAILY/blob/main/hive_warehouse_partition.png)
+
+
+## After source data moved to the Archieval Folder -
+
+![Source](https://github.com/SandipJadhav7843/GCP-TO-HIVE-TABLE-LOAD-PIPELINE-DAILY/blob/main/Source_file_moved_to_archieve_folder.png)
+![Archieve](https://github.com/SandipJadhav7843/GCP-TO-HIVE-TABLE-LOAD-PIPELINE-DAILY/blob/main/Archive%20Folder.png)
+
