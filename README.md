@@ -20,3 +20,7 @@ This pipeline ensures seamless data flow, efficient partitioning, and query opti
 
 ## PIPELINE FLOW SCREENSHOT -
 ![PIPELINE FLOW](https://github.com/SandipJadhav7843/GCP-TO-HIVE-TABLE-LOAD-PIPELINE-DAILY/blob/main/Pipeline_Flow.png)
+
+
+## PIPELINE EXECUTION VIDEO -
+![PIPELINE EXECUTION VIDEO](https://github.com/SandipJadhav7843/GCP-TO-HIVE-TABLE-LOAD-PIPELINE-DAILY/blob/main/Pipeline_Execution_Video.rar)
